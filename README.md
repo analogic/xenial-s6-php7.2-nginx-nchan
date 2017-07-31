@@ -1,3 +1,3 @@
-Base image Analogic/Trusty with NGiNX (+nchan), PHP 7.1
+Base image Analogic/Xenial with NGiNX (+nchan), PHP 7.2
 =======================================================
 see Dockerfile and rootfs directory...
